@@ -51,8 +51,7 @@ const menuFun = () => {
     "<figure><img src='./images/main_3.jpg'></img><figcaption>Kebab with parsley and onions</figcaption></figure>" +
     "<figure><img src='./images/main_4.jpg'></img><figcaption>Kebab with pistachio</figcaption></figure>" +
     "<figure><img src='./images/main_1.jpg'></img><figcaption>Sheesh Tawooq</figcaption></figure>" +
-    "<figure><img src='./images/main_1.jpg'></img><figcaption>Shoqaf</figcaption></figure>" +
-    "<figure>?<figcaption>Daily specials</figcaption></figure>";
+    "<figure><img src='./images/main_1.jpg'></img><figcaption>Shoqaf</figcaption></figure>";
     mainWrapper.appendChild(mainsList);
   });
   // desserts
